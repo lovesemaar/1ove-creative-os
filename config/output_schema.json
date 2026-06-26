@@ -1,0 +1,17 @@
+{
+  "required_fields": [
+    "title",
+    "platform",
+    "duration",
+    "hook",
+    "voiceover_script",
+    "visual_direction",
+    "music_mood",
+    "subtitle_style",
+    "editing_style",
+    "ending_line",
+    "call_to_action",
+    "review_notes",
+    "final_video_prompt"
+  ]
+}

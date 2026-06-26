@@ -1,0 +1,16 @@
+{
+  "default_mode": "public_safe",
+  "allow_sensitive_memory_in_prompt": false,
+  "public_safe_terms": [
+    "duality",
+    "inner conflict",
+    "survival identity",
+    "emotional split",
+    "guilt",
+    "darkness",
+    "humanity",
+    "healing",
+    "integration",
+    "reconstruction"
+  ]
+}

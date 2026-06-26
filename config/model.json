@@ -1,0 +1,10 @@
+{
+  "backend": "mock",
+  "safe_fallback_to_mock": true,
+  "timeout_seconds": 120,
+  "ollama_base_url": "http://localhost:11434",
+  "ollama_model": "llama3.1:8b",
+  "openai_compatible_base_url": "http://localhost:1234/v1",
+  "openai_compatible_model": "local-model",
+  "openai_compatible_api_key": "lm-studio"
+}

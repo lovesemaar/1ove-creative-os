@@ -1,0 +1,9 @@
+{
+  "retrieval_default_tiers": [
+    "public",
+    "project"
+  ],
+  "private_tier_requires": "private_draft",
+  "sensitive_tier_default": "blocked",
+  "max_retrieved_memories": 5
+}

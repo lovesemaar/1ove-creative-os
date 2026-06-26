@@ -1,0 +1,6 @@
+{
+  "ready_min_total": 25,
+  "needs_tuning_min_total": 18,
+  "block_on_privacy": true,
+  "block_on_missing_required_format": true
+}
