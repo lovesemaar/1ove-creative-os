@@ -88,14 +88,33 @@ Read:
 - `docs/public_sanitization.md`
 - `docs/release_checklist.md`
 
-## Important Release Blocker
+## Release Status
 
-This package is not publicly releasable until a license is selected.
+Status: v1.0.0 Public Release Locked  
+Owner: Love Semar  
+License: Apache License 2.0  
+SPDX-License-Identifier: Apache-2.0  
+Privacy mode: local-first, privacy-first, public-safe  
 
-Read:
+1oVE Creative OS v1.0.0 is approved for public release after owner approval, Apache-2.0 license insertion, privacy boundary confirmation, and test validation.
 
-- `LICENSE_PENDING.md`
-- `docs/license_options.md`
+## Public Release Notes
+
+This repository is the first public release of 1oVE Creative OS — The Reconstruction Era.
+
+It includes:
+
+- local creative agent runner
+- privacy gate
+- optional memory retrieval
+- six creative agents
+- four review agents
+- quality evaluation
+- Markdown/JSON output writing
+- Apache-2.0 license
+- public-safe documentation
+
+Private memory, personal raw notes, runtime outputs, and sensitive identity material are not included in the public release.
 
 ## Repository Map
 
@@ -112,28 +131,3 @@ Read:
 - `scripts/` — Windows helper scripts
 - `tests/` — smoke, privacy, memory, and evaluation tests
 - `outputs/` — generated outputs, gitignored
-
-## Current Stage
-
-Stage 14 — Open-Source Repo Packaging.
-
-Next stage:
-
-```text
-Stage 15 — v1 Release Candidate
-```
-
-
-## Stage 16 Status
-
-This repo copy is packaged for final owner testing and public-release lock.
-
-Current status:
-- Local release candidate: READY_FOR_OWNER_TESTING
-- Public release: HOLD until license is chosen and owner approval is signed
-- License: PENDING_OWNER_DECISION
-
-Start with:
-- `release/OWNER_TEST_PLAN.md`
-- `release/PUBLIC_RELEASE_LOCK_CHECKLIST.md`
-- `release/OWNER_APPROVAL_GATE.md`
